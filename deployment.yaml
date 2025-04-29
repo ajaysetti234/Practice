@@ -1,5 +1,5 @@
 jobs:
-- job: Build
+- job: deployment
   steps:
   - task: PowerShell@2
     inputs:
